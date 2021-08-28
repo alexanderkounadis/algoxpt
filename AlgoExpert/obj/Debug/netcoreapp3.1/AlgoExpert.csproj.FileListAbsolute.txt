@@ -1,0 +1,13 @@
+C:\Users\Alexandros\source\repos\AlgoExpert\AlgoExpert\bin\Debug\netcoreapp3.1\AlgoExpert.exe
+C:\Users\Alexandros\source\repos\AlgoExpert\AlgoExpert\bin\Debug\netcoreapp3.1\AlgoExpert.deps.json
+C:\Users\Alexandros\source\repos\AlgoExpert\AlgoExpert\bin\Debug\netcoreapp3.1\AlgoExpert.runtimeconfig.json
+C:\Users\Alexandros\source\repos\AlgoExpert\AlgoExpert\bin\Debug\netcoreapp3.1\AlgoExpert.runtimeconfig.dev.json
+C:\Users\Alexandros\source\repos\AlgoExpert\AlgoExpert\bin\Debug\netcoreapp3.1\AlgoExpert.dll
+C:\Users\Alexandros\source\repos\AlgoExpert\AlgoExpert\bin\Debug\netcoreapp3.1\AlgoExpert.pdb
+C:\Users\Alexandros\source\repos\AlgoExpert\AlgoExpert\obj\Debug\netcoreapp3.1\AlgoExpert.csproj.AssemblyReference.cache
+C:\Users\Alexandros\source\repos\AlgoExpert\AlgoExpert\obj\Debug\netcoreapp3.1\AlgoExpert.AssemblyInfoInputs.cache
+C:\Users\Alexandros\source\repos\AlgoExpert\AlgoExpert\obj\Debug\netcoreapp3.1\AlgoExpert.AssemblyInfo.cs
+C:\Users\Alexandros\source\repos\AlgoExpert\AlgoExpert\obj\Debug\netcoreapp3.1\AlgoExpert.csproj.CoreCompileInputs.cache
+C:\Users\Alexandros\source\repos\AlgoExpert\AlgoExpert\obj\Debug\netcoreapp3.1\AlgoExpert.dll
+C:\Users\Alexandros\source\repos\AlgoExpert\AlgoExpert\obj\Debug\netcoreapp3.1\AlgoExpert.pdb
+C:\Users\Alexandros\source\repos\AlgoExpert\AlgoExpert\obj\Debug\netcoreapp3.1\AlgoExpert.genruntimeconfig.cache
